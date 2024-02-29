@@ -1,0 +1,7 @@
+1, Factura1, 2024-01-15
+2, Factura2, 2024-01-20
+3, Document3, 2022-02-25
+4, Document4, 2023-04-30
+5, Document5, 2023-05-05
+6, Factura6, 2023-04-20
+3, Document7, 2023-06-25

@@ -1,0 +1,6 @@
+1, 1, 2024-01-15, Utilities
+2, 2, 2024-01-20, Groceries
+3, 3, 2023-01-25, Fashion
+4, 4, 2023-04-30, Entertainment
+5, 5, 2023-05-05, Electronics
+6, 6, 2023-04-20, Utilities

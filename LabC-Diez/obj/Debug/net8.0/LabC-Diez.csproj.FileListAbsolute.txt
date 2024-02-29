@@ -1,0 +1,14 @@
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\bin\Debug\net8.0\LabC-Diez.exe
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\bin\Debug\net8.0\LabC-Diez.deps.json
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\bin\Debug\net8.0\LabC-Diez.runtimeconfig.json
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\bin\Debug\net8.0\LabC-Diez.dll
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\bin\Debug\net8.0\LabC-Diez.pdb
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\LabC-Diez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\LabC-Diez.AssemblyInfoInputs.cache
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\LabC-Diez.AssemblyInfo.cs
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\LabC-Diez.csproj.CoreCompileInputs.cache
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\LabC-Diez.dll
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\refint\LabC-Diez.dll
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\LabC-Diez.pdb
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\LabC-Diez.genruntimeconfig.cache
+C:\Users\bianc\RiderProjects\LabC-Diez\LabC-Diez\obj\Debug\net8.0\ref\LabC-Diez.dll
