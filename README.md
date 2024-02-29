@@ -1,4 +1,5 @@
-#Facturi
+FACTURI
+
 Cerințe de proiectare:
 - Interfata IRepository<ID, E> where E : Entity<ID> expune o singură metodă publică, IEnumerable<E> 
 FindAll(), care returnează o colecție formata din toate entitățile de tipul <E>; 
